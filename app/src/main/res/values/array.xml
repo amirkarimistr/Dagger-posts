@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Category">
+        <item>نوع دسته بندی</item>
+        <item>کامپیوتر و لوازم اداری</item>
+        <item>لوازم صوتی و تصویری</item>
+        <item>لوازم خانگی</item>
+        <item>موبایل و دوربین</item>
+        <item>ظروف و چینی</item>
+        <item>لوازم آشپزخانه</item>
+        <item>کیف و کفش</item>
+        <item>پوشاک و پارچه</item>
+        <item>آرایشی و بهداشتی</item>
+        <item>لوستر ، نور و روشنایی</item>
+        <item>ابزارآلات و شیرآلات</item>
+        <item>کالای خواب</item>
+        <item>ساعت و بدلیجات</item>
+        <item>اسباب بازی</item>
+        <item>خودرو و لوازم لوکس</item>
+        <item>کالای ورزشی</item>
+        <item>مواد غذایی</item>
+        <item>متفرقه</item>
+    </string-array>
+</resources>
